@@ -1,0 +1,7 @@
+id_venta,fecha,id_producto,cantidad,precio_unitario,canal,total_ventas,nombre_producto,categoria,costo_unitario,utilidad_estimada,tipo_promocion,porcentaje,anio,mes,dia,dia_semana,es_fin_semana
+1,2026-01-05,101,2,15.5,Web,31.0,Sensor Inteligente,Iot,10.25,10.5,Descuento,10.0,2026,1,5,Monday,False
+2,2026-01-06,102,1,22.0,App,22.0,Licencia de Software,Software,14.0,8.0,Bundle,15.0,2026,1,6,Tuesday,False
+3,2026-01-07,101,3,15.5,Tienda,46.5,Sensor Inteligente,Iot,10.25,15.75,Sin Promocion,0.0,2026,1,7,Wednesday,False
+4,2026-01-08,103,5,8.75,Web,43.75,Dispositivo movil,Hardware,5.5,16.25,Sin promocion,0.0,2026,1,8,Thursday,False
+5,2026-01-09,104,2,30.0,App,60.0,Servicio analitico,Servicios,20.0,20.0,Sin Promocion,0.0,2026,1,9,Friday,False
+6,2026-01-10,102,4,22.0,Tienda,88.0,Licencia de Software,Software,14.0,32.0,Sin Promocion,0.0,2026,1,10,Saturday,True
